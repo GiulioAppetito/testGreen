@@ -1,11 +1,11 @@
 language: java
 jdk:
- -openjdk15
+ - openjdk15
 addons:
  sonarcloud:
   organization: "giulioappetito"
   token: "521a87ed23e2e5a391756406b1bbd7c619e044de"
 
 script:
- -ant build
- -sonar-scanner
+ - ant build
+ - sonar-scanner
