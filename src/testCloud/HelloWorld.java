@@ -1,4 +1,4 @@
-package ISPW;
+package testCloud;
 
 public class HelloWorld {
 
