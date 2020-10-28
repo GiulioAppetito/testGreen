@@ -1,4 +1,4 @@
-package testCloud;
+package testcloud;
 
 public class HelloWorld {
 
